@@ -2,19 +2,15 @@ import ollama
 
 FEEDBACK_FILE = "feedback-5.0.txt"
 
-# model="llama3",
-# model="llama3.2:7b",
-# model="llava:34b",
-# model = "llava-llama3",
-
-# MODEL = "llama3.1"
-MODEL = "llama3.2"
+MODEL = "llama3.1"
+# MODEL = "llama3.2"
 # MODEL = "gemma2"
 
 
 PROMPT = """
 Summarize the feedbacks for the event, keep every feedback point very short. 
-Make sure to include every oppinion and note when it is suported by multiple people. Try to find patterns in the feedback.
+Make sure to include every opinion and note when it is suported by multiple people. Try to find patterns in the feedback.
+Some feedback is in Czech make sure to translate it to English.
 
 The feedbacks follow:
 
@@ -27,6 +23,8 @@ def main():
         feedback = f.read().strip()
 
     prompt = PROMPT.format(feedback)
+    print(prompt)
+    print("----")
 
     response = ollama.generate(
         model=MODEL,

@@ -1,7 +1,277 @@
-I liked it.
+### Feedback 1 ###
+"OK, zkusím použít strukturu z Discordu:
 
-I liked the bot programming game.
+price - ok, klidně bych připlatil víc a platil někoho kdo bude dělat chores v kuchyni
 
-There was not enough board games.
+venue - super, pojeďme tam i příští rok
 
-I liked the programming part.
+people - true nerds, možná to je lehce nepřístupné pro lidi co nejsou true nerds, jako třeba Zuzka od Aleše. Báře se taky moc nechtělo přijet nakonec aspoň na jednu/dvě noci.
+
+puzzle hunt - jenom jsem jim to testoval, ale měli to hezky vymyšlené, kudos že to zvládli zorganizovat takhle na dálku
+
+night game - super, ale dejte to do programu! Už jsem tohle říkal minulý rok. Ten večer byl naplánovaný barcamp/boardgames/lan, říkal jsem si že konečně řeknu svojí přednášku, 
+zahraju si deskovku nebo lan game...a zase nic, zabila to night game. Vzhledem k tomu že bych rád organizovaný program na GT redukoval, tak bych příští rok udělal jenom night game nebo jenom puzzle hunt, ne oboje. Je to podobná akvitita.
+
+movie trivia - super lightweight party zábava
+
+barcamp format - přišel mi nevyužitý potenciál. Z barcampu se dělal jenom OSINT a movie trivia. Mohlo se toho dělat mnohem víc, ale chyběla tomu struktura a nějaké pořádné hlasování. Byly to jenom nestrukturované posty v Discord kanálu, kam lidé občas dávali liky, ale nikdo je v tom Discordu nevyzval ať to dělají. Říkalo se to prý někdy osobně. Prostě nedostatečný focus. Lepší formát by bylo víc struktury v Google sheetu, hlasování oznámené na Discordu, s deadlinem. Ideálně aby lidi věděli už před GT, jestli jejich aktivita bude nebo ne. Mrzí mě, že jsem si připravoval přednášku a neměl jsem prostor jí říct. Jo, na Discordu jsem měl jenom jeden lajk. Ale několik dalších lidí mi říkalo offline, že by je to zajímalo.
+
+OSINT - překvapení garage tripu, byl jsem k tomu skeptický a bavilo mě to velmi. Víc než night game :)
+
+daily puzzles, wordle - vůbec jsem na to neměl čas, ale u těchto aktivit vůbec nevadí když je dělá jenom pár lidí co to baví, takže proč je na GT nemít
+
+paintball - nebyl jsem, ale už mi to přijde ohrané, příště bych nedělal
+
+children - překvapilo mě, jak to vlastně s dětmi šlo. I když s menšími dětmi je to vlastně asi všechno jednodušší, Erik vyžaduje mnohem víc pozornosti a programu. No uvidíme příští rok ale chci tomu dát šanci. Chtěl bych, aby se z GT stala kid-friendly akce, na kterou nemusím složitě shánět hlídání a děti se primárně zabaví spolu
+
+unnatural worlds - super rozdělení na human tournament a AI tournament, že to nezabilo celý GT jako v minulých ročnících. Nicméně pořád dát čtvrtek jako že se nebude programovat a bude chill venku bylo bláhové. Byla to jediná doba, kdy jsem reálně mohl něco naprogramovat. Protože nejdřív byly porodní bolesti, pak programovala Eva a bylo neefektivní abych jí commitoval něco do masteru, pak jsem připravoval jídlo, pak program a najednou byl čtvrtek. Tzn. nedával bych v programování žádnou pauzu, reálně pauza není a trpí tím ten program pauzy. Obzlášť, pokud je hra kompetitivní a ne kooperativní. Dal bych to prostě v kuse, ale může to být jasněji časově omezené. Např. to může skončit o den dřív než GT, ať poslední den děláme něco jiného než programování hry. 
+Jinak ještě k unnatural worlds to dost zaznělo při feedbacku poslední den - to API bylo hrozně low level a většinu času jsme strávili chápáním API a stavěním abstrakce a infrastruktury, aby to šlo použít na programování různých strategií. Kdyby tahle infrastruktura byla už napsaná, tak by to bylo mnohem zábavnější. Plus jsem teda vnímal unfair advantage lidí co psali ty example boty jako Vítek nebo Fíša. Nebyli jenom rádci, ale byli normálně v teamech a díky tomu jejich týmy měli velký headstart v chápání a psaní infrastruktury. My ostatní jsme měli kvůli tomu klidně i den zpoždění. U kooperativní hry by to nevadilo, u kompetetivní hry mi to přijde unfair. Chápu, že mohou vnímat jako ""odměnu"" za to že strávili čas psaním example bota, ale stejně.
+
+board games - největší zklamání GT, a hlavně zklamání v tom že já dávám tento feedback už několik let a nic se nemění. A podle toho co říkali lidi v závěrečném kolečku tak nejsem sám a deskovky chyběly hodně lidem. Každý rok tam je ohromná hromada deskovek a zahraje se třeba jedna. Hlavní problém vidím ve struktuře programu - imo je špatně napsat program na večer jako LAN/Board Games/Barcamp. Ono to zní jako že si každý vybere co ho baví a bude to fajn. Ale na GT to tak nefunguje. Znamená to, že ten večer není žádný pořádný program, každý si dělá co chce a nemá to focus. Nebo to přebije nějaká úplně jiná ad hod aktivita. Správně by mělo být, že jeden večer bude vyhrazený pouze na deskovky, jiný pouze na lanku, jiný pouze na barcamp. Zapojí se do toho většina lidí, bude to mít focus, ponoříme se do toho hlouběji, bude to stát za to, nepřebije to jiný program. Samozřejmě nebudeme nutit všechny hrát deskovky, kdo nechce tak si může dělat co chce. Ale jde o ten focus a o to co bude dělat většina lidí. 
+
+hookah - great
+
+food - zase dám stejný feedback jako minulý rok: chce to mít služby na kuchyni. Chtěl bych predikovatelně vědět, kdy budu mít službu a přizpůsobit si tomu program. A necítit se blbě, když to dělá někdo jiný. Takhle většinu práce oddřeli Oťas a Kat, cítil jsem se blbě. Přihlásil jsem se do kuchyně když už ten blbý pocit přetekl nějakou hranici a to byl zrovna čas když. jsem nejvíc potřeboval programovat na unnatural words. Jinak jiné řešení by bylo někoho do kuchyně zaplatit, ale přijde mi fakt jednodušší udělat jasné služby - jeden den práce nikoho nezabije a hezky se to rozloží mezi všechny a nikdo se nebude cítit blbě, že pomáhá málo.
+
+tap - great
+
+drinks - great, dal bych si víc craft pivek
+
+tell us what you liked and what you hated, what should we add or skip
+
+Nejvíc mě štve, že některé z těchto feedbacků říkám už několik let a nic se nemění. Připadá mi, že posílám feedback do černé díry. Mohl by mi prosím na feedback někdo zareagovat? I negativní odpověď je velmi cenná ala ""myslím si že tenhle problém máš jenom ty a většina lidí je takhle s tím v pohodě"" nebo ""tahle akce prostě není o deskovkách, pojďme je zrušit"". Velmi by mi to pomohlo srovnat očekávání a focus - např. ok, nebudu deskovky na GT vozit, budu deskovky hrát na jiných akcích. 
+
+Taky to říkám každý rok, lidi si imo GT víc užijí, když je méně organizovaného programu a více nestrukturovaného. Každý rok je to trochu lepší, pokaždé mi to přijde trochu víc chill. Ale stejně je co zlepšovat. Přemýšlím, jak bych tomu mohl v dalších ročnících pomoct. Nechci si vzít na bedra žádný organizovaný program ala night game/programming game/puzzle hunt. Protože chci tento organizovaný program redukovat. Ale mohl bych si vzít na starost to, aby ten nestruktutovaný program měl attention a focus, jaký si zaslouží. Aby to nepůsobilo, že ""tady je volný večer"" ale ""tady je barcamp večer a tady je tabulka a hlasování barcamp aktivit""
+
+No celý tento feedback asi působí dost negativně, ale chci říct že GT je pro mě fakt srdcovka. Jak jsem říkal na konci, tak GT je true nerd akce, kde můžu naplno být true nerdem a totálně relaxovat oproti běžné realitě. Nerdvana prostě. Na tom eventu mi záleží, chci ho zlepšovat a proto píšu takhle dlouhý feedback :) A díky díky že to děláte, hlavně main orgům, nedokážu si představit tohle organizovat v prvním roce Erikova života."
+
+### Feedback 2 ###
+
+"## Price & Venue
+Price was great. More expensive venue wouldn’t be an issue for me.
+Venue is great but I think we've exhausted the outdoor activities, hikes, paths for puzzle hunt, etc. -> I'd prefer a different venue next time.
+
+## Barcamp & Organization
+I'm big fan of the Barcamp format - I think it created space for everyone to come up with activities instead of heavily relying on core organizers.
+I'm also a big fan of the main activities being organized by different people - i.e. AI coding, Puzzle hunt, Night game, Daily puzzles were all prepared by different people. 
+
+## AI coding 
+I think it was the best one yet.
+
+People weren't loosing motivation like with DnT - I think the fact that the game was less dynamic helped a lot. E.g. you can build the same buildings every time so you have a clear strategy. The opponents and the maps provide dynamic challenge. DnT was too dynamic imho - e.g. the items and skills.
+
+Playing the game manually first was an awesome way to get to know the mechanics.
+Being able to manually try out strategies and figure out specific steps you need to code later saved a lot of trial and error in coding.
+
+Having a tested and already balanced game is a game changer. :D
+It removed a lot of surprises and need for adjusting the game mechanics on the fly. 
+
+Teams of 2 work great imho.
+
+Tournament structure worked great imho - i.e. human tournament, Free for all qualification, and finally 1v1 tournament. Free for all was fun. 1v1 felt like a fair way to compete and determine a winner.
+
+The timing of the coding was pretty good - i.e. day with human tournament, day off / outdoor activity, introduce API + AI coding day, 2nd (partial) day off / outdoor activity 2, final AI coding day.
+Less time but more intense time of AI coding is great imho.
+Not introducing the API on the first day is great way to not have people coding 4-5 days straight. 
+I would consider planning some structured outdoor activity on the 2nd day off to make more people take a break from coding. E.g. some light puzzle hunt. 
+
+We could have avoided the ~4 hours of issues with libraries if we spent ~2 hours testing the Python client on Windows ahead of time. 🤷‍♀️
+
+Using Windows brought some frustration for sure. :D
+But ultimately it wasn’t an issue because we had enough HW.
+
+## Puzzle hunt
+I liked that we didn’t have to solve puzzles on the way. I.e. we didn’t have to write anything while walking, we couldn’t get stuck on the way, and the puzzles didn’t have to be too simple.
+Good difficulty. First puzzle hunt that all / most teams solved completely. :D 
+
+## Movie trivia
+We could do tech trivia next time. It’s been a while.
+
+## Food
+Paying someone to prepare food for us would be 100% worth it.
+
+## Tap
+I would skip cider on tap and get a better cider in bottles.
+Kofola on tap is great imho.
+For beer let’s only get Radek 12 next time.
+
+## Hookah & Drinks
+❤️
+Bring less Gin. G&T popularity 📉
+
+## Children
+No issues at all. Great that there were more children at the start.
+We have to make sure that next venue works well for children. E.g. some rooms should be far enough from main room so that we don’t wake wake up children when we’re loud.
+
+## Board games
+Nobody has time to play board games one the AI coding is in progress.
+I’d shuffle activities and plan an evening for board games before the AI coding starts - e.g. suggestion: arrival + initial BBQ, puzzle hunt day, game introduced (human tournament if possible), hike + board games evening, AI coding day, outdoor activity day + some AI coding, final AI coding day, leaving.
+
+## Other activities
+Night game, daily puzzles, wordle, …
+All great! No complaints.
+
+Simon"
+
+### Feedback 3 ###
+"price - OK I would like to keep it reasonably low so it is accessible and we may spend money on prices, servers, food, hookah
+
+venue - love this place but we have to move on otherwise it will be too repetitive and people will get bored. It is a lot of work to find a new place but it is actually very bonding experience to solve the problems at the venue
+
+people - love the people. It has to stay this geeky. I hate that most people are only active at the event and not before so we cannot vote about activities before and organize it properly and also that people register late and drop out in the last minute.
+
+puzzle hunt - just amazing
+
+night game - even more amazing
+
+movie trivia - loved it
+
+barcamp format - it had more potential, but half of the people are not even reading Discord so IDK how to use it more. There are two types of people there: 1. the ones who create a spreadsheet for taking a shit (like me a David) and 2. the ones not caring at all about organization and just going with the flow. Three reactions is the most for the activity and only 4 different people voted :/
+
+OSINT - loved it, the ssh UI is nice
+
+daily puzzles - I did not get to most of them, I would post them in the Discord too. I always start thinking about it and I need to write it down and before I get to it a lose focus :(
+
+wordle - imho nice people can solve it on the phone when they are bored
+
+paintball - love it but next year I would probably skip all activities which are not organized by us - to have more time. The only exception is if there is something really great close and may be enjoyed only by a big group of people.
+
+children - surprisingly ok
+
+unnatural worlds - I loved every aspect of it. Unnaturally good. Human tournament is the the best way to start without question. Everyone was ok with the Python suprisingly.
+
+board games - I was very sad that we did not get to it more. Honestly I do not get the reason, there should be a lot of time.
+
+hookah - very good, just a lot of work with clening, coarl, bowls prep, would be great to simplify or offload
+
+food - the food is great and I love the cooperation, but offloading it sounds also great
+
+tap - cider was too sweet and Kofola too. But great to have it
+
+drinks - no time to mix, but I had some so that was great
+
+Hate
+* LAN - I would sadly drop it next year and I am saying it for multiple years. Noone is gaming, taking the desktops is challenging. I would need to be more organized probably. Maybe we can have a small gaming corner IDK
+* people not active in the Discord (mainly before the event)
+* BBQ - it is such a chore, no one wants to be outside so the grillmaster is there alsomost alone ...
+* the fact we do not have custom T-shirts (+logo)
+* not getting feedback
+* pople come and go during the week (some of them not even join the discord / activities)
+* others not proposing activities
+
+love
+* others preparing activities
+* starlink
+* international version
+* pancakes
+* the venue is just great - the main room and the kitchen are just amazing
+* people taking care of stuff, like Otas for the kitchen, Eve for food, Tomas O. for the fire
+
+For me this was without question the best iteration yet
+
+tivvit"
+
+### Feedback 4 ###
+"(I have already read some of the feedback from others, so I might throw in here some reactions too, or considerations.)
+
+Venue is good, but lets move on. There is nothing but the main hall for us anymore.
+
+People - children were no problem at all. English was no problem at all. Lets keep it that way.
+
+Puzzle hunt - i have mixed feelings about this. It felt too difficult. I prefer if hints are very last resort, rather than a mandatory step. Also randomly/aimlessly walking outside hoping to hit the right spot is just not it (the bearded man wtf). That said, I very much appreciate that they have prepared this activity (I know its difficult ;)).
+
+Night game - did not use the aspect of the night in any way, which is wasted potential. The puzzles were simpler or possible to cheese, which actually felt good too ;) I am glad that my group was not super-competitive and rather enjoyed the walk.
+
+Barcamp format - its useless, people will not vote, people will not prepare it. All program should be organized by core organizers, or very specifically dedicated to those who are willing to help - in upfront. Barcamp just brings uncertainty to the activities, and wastes time of those who actually considered to prepare something.
+
+Osint - I missed the initial presentation due to night game, and got burned out by the response format, which I still dont understand to this day.
+
+Paintball - I think an activity like this (using an opportunity from around the place) does belong to GT, but we need to move to another location to find new opportunities.
+
+Unnatural Worlds - GT5 was probably the most of all GTs stressful for me, because of UW. ;) :facepalm:
+
+Board games - I think the problem here is not as much the time, as it is that people are mentally exhausted. I certainly was. If board games are to be played, they need to be part of organized program. Eg. make a cross-board-games tournament, or something. It must have dedicated time slot.
+
+Hookah - great ;)
+
+Food - great. Lets find someone to attend to it. With this many attendees the price for a cook/server/whatever should be acceptable when split.
+
+Tap - kofola ftw ;)
+
+Drinks - even I had some, its good ;)
+
+Daily puzzles, wordle, are good time fillers for those who want it. Does not distract too much from main program. Reasonably simple to prepare (I assume that it is mostly taken from existing sources). I would prefer if osint was handled in similar way (but that might be a lack of information).
+
+In overall, I think we should mix in more outdoor and less thinking games.
+Merge puzzle hunt and night game, as someone has mentioned, it is essentially the same.
+We should reduce the time for AI competition. It took 3.5+ days - an entire HALF of the GT.
+
+Tomáš Malý
+
+### Feedback 5 ###
+"
+"Tadeáš Berkman
+==============
+
+## Jídlo
+OK
+
+## Ubytování
+Výborné
+
+## Cena
+OK. Levnější, než jsem očekával
+
+## Program
+OK. Myslím, že ho ubylo, a můžeme v tom trendu pokračovat.
+
+Mně se líbí využít trip částečně jako čas a klid na své projekty. Obzvlášť v letech, kdy jsem normálně zaměstnán na plný úvazek a trávím na tripu dovolenou. Tentokrát se mi taky díky časnému vstávání a debatám s ostatními podařilo odstranit několik problémů, na kterých jsem byl předtím zaseknutý.
+
+Vynechal jsem kvůli tomu část organizovaného programu. Např. šifrovačka a noční hra pro mě nabízejí obdobný zážitek a stačilo mi absolvovat jednu z nich. Rozdělení šifrovačky na dvě části mělo přednost v tom, že jsme na dlouhé hodiny neuvázli někde v lese, ale ztratila se souvislost mezi procházkou a šiframi, které jsme pak na chatě řešili už ""jen tak"". Šimonovy OSINT úlohy se také v něčem podobají a bohužel jsem jim nevěnoval tolik času, kolik by si zasloužily. Asi by mi pomohly nějaké nápovědy. U mých úloh z rekreační matematiky taky postupně klesal počet řešitelů.
+
+Myslím, že jsem svým přístupem ostatním aktivity nekazil. I když bylo trochu divné přebírat ceny za výhry, na kterých jsem neměl podíl.
+
+Nestihlo se moc deskovek, sportů a počítačových her (mimo UW). To jsou všechno volné aktivity s tou výhodou, že se k nim dá snadno přidat nebo je vynechat, jak se komu chce.
+
+## Organizace
+Se stylem ""každý, kdo zrovna může, dělá, co je zrovna potřeba"" se vše zvládlo, ale bylo to podle mě nejslabší místo akce. Uvědomoval jsem si, že ne každý přispívá rovným dílem a že silně vytížení účastníci jsou občas po právu mrzutí. Zároveň se moc neumím flexibilně zapojit nebo mi chybí sociální a praktické dovednosti (např. příprava jídla na grilování by neměla být příliš složitá, ale rozhodně vybočuje z mé komfortní zóny). Takže jsem se jako černý pasažér necítil vždycky úplně příjemně.
+
+## Angličtina
+Bez problému. Měl jsem trochu obavy, jak moc se bude tlačit univerzální používání angličtiny. Ale vypadalo to stejně jako na jiných akcích s účastí cizinců. Pohoda.
+
+## Závěr
+Díky všem pořadatelům za další propracovanou a dobře zvládnutou akci. Doufám, že moje hodnocení nevyzní příliš negativně :)"
+"First of all, I’d like to thank every participant for a great event. I had a great time as always 🖤 My feedback to single activities/areas.
+
+### Feedback 6 ###
+Accommodation
+What worked well: Awesome facilities, great common room with exactly enough space to chill or sit with the computer. I like that each room has its own bathroom. I didn’t try the sauna, but I appreciate that it was there. Also great that there is a laundry room and a playroom for kids. Child seating is essential and the changing table is nice to have. The outside area is also nice and spacious for a BBQ.
+What could have been better: Room cleanliness - once we moved beds, it was quite dirty behind it. The mattresses were also not in the best shape. Also, the bathrooms could have been cleaned better. It was cold on the ground floor while hot on the upper floors. The heating didn’t work. Nit pick - missing sun shades and bug nets. The ideas on where to go in the nearest proximity are now pretty exhausted. While overall I liked the accommodation, I would try something else next time and maybe come back after a few years.
+
+Food/shisha/drinks
+What worked well: The service we got is the best we could get IMHO. We didn’t need to cook anything, only reheat, and it was a great balance between the need to micromanage every meal delivery (in this setup they only brought food every 3 days) and too much effort from our side.
+What could have been better: Only a small set of people was actually taking care of the food. A huge part of people just waited for someone to prepare the food. There was a mental burden for some people feeling responsible for it without it being agreed beforehand. I’m opposed to creating a schedule for daily chores. Instead, there should probably be groups of people always taking care of food; BBQ; shisha; drinks; cleaning; dishes, etc. Or, we can have “managers” or each area and the rest should be prepared to help when needed (it’s annoying when some people just never do anything, but they should not feel bad if not doing anything while not being asked to). Not sure if I’m a fan of a “stranger” being there and working for us - I would not be comfortable telling them to do a better job if I’m not satisfied.
+
+LAN
+What worked well: I personally enjoyed the most when we played UW against each other. Everyone participated and it was really fun. 
+What could have been better: I don’t remember if we did some LAN evening as in the previous years. If we did, it was not that memorable for me. I probably don’t enjoy the games we always play - Flatout, gay warcraft (sorry, not sure what the game is). I would have enjoyed if we played DST, Factorio, Overcooked, Keep talking and nobody explodes or something similar, but that’s a personal preference (and I know that I should’ve initiated that).
+Board games:
+What worked well: There was a huge selection of board games from which everyone could have picked at any time. There was enough time to do that, so if anyone wanted, nobody was blocking that. I wouldn’t do an evening dedicated to only board games, because I don’t think it works well. Each game is possible to play in rather smaller number of players, how would we decide who plays what? Some people would have to stick with some “good enough” game but not the one they would prefer.
+What could have been better: If people actually played more 🙂 But if people weren’t interested more, is it even something worth fixing? I was satisfied.
+
+Puzzle hunt: 
+What worked well: A new concept, that we needed to find the places in the real world based on the description. It allowed us to better explore Zdobnice and it was nice to spend some time outside.
+What could have been better: There was a long tail of solving the following puzzles. Basically, the real puzzle hunt started when we came home, while I had this feeling that we are “done”. It was hard for me to sit back down and fully focus on solving the puzzles with the map. However, the puzzles were great (also pretty hard, we needed a lot of hints).
+Night game: 
+What worked well: Nice outside walk as always. I like the idea with the QR codes. 
+What could have been better: Next year I would focus on a different concept. It can even be more spooky to leverage the concept that we are there in the middle of the night. It should be shorter, that last group was suffering there, and also the orgs 🙂
+
+UW
+What worked well: Great concept - competitive games work better than cooperative IMHO. I loved that we first played manually and then started developing bots. 
+What could have been better: Time investment in the bot programming - basically those who had the most time or knew how the game works beforehand had a huge advantage. I constantly felt bad that I did not have that much time to code (taking care of Ted etc). I also felt that even if I threw more time on it, other people were still ahead and I couldn’t keep up. And then it was over for us after playing two games in the tournament. Maybe we could have let’s say 3 hours for coding and then fight. In any case, we would need a better API for that which would allow us to focus on the game logic, not spending plenty of time to even get the information about the game state (an example - how to iterate over your ghosted buildings, resources, etc) and how to control the units. I feel that nobody really focused on the troop management and only built buildings. No fight formations etc, because it was just so complicated, and not much time left.
+Other program:
+I loved the movie trivia. Let’s do more trivia games pls. I still remember the fun we had with AZ quiz. We can do a pub quiz next time. 
+
+I18n
+I think we did pretty decent job in trying to speak English as possible, but sometimes I felt a bit bad when we talked Czech in front of people who didn’t understand it. In any case, I was amazed how well everyone could speak English without issues. It will be different when there are more non-Czech-speaking attendees. I think it was a success overall."
+
